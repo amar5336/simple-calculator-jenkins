@@ -5,7 +5,7 @@ pipeline {
     // Use tools Name configured in Jenkins
     tools {
         jdk 'JDK 25'
-        maven 'Maven-3'
+        maven 'Maven3'
     }
 
 
